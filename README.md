@@ -4,6 +4,9 @@
  
 <div align=center>
  
+ ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- :mortar_board: College student
+ 
 <h4>Stack</h4>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=or-the-badge-square&logo=HTML5&logoColor=white"/>
