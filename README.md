@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=or-the-badge-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pyton-3776AB?style=or-the-badge-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=or-the-badge-square&logo=React&logoColor=white"/>
+
 🔭
-### TOOLS
+## TOOLS
 <img src="https://img.shields.io/badge/GitHub-181717?style=or-the-badge-square&logo=GitHub&logoColor=white"/>
 
