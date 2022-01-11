@@ -2,7 +2,7 @@
  
 <div align=center>
  
- <h3>Stack</h3>
+ <hd>Stack</hd>
 <hr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=or-the-badge-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=or-the-badge-square&logo=CSS3&logoColor=white"/>
